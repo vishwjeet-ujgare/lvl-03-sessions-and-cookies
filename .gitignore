@@ -1,0 +1,29 @@
+# Node.js dependencies
+/node_modules/
+
+# Logs
+*.log
+
+#solution
+solution.js
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build output
+/dist
+/build
+
+# Environment files
+.env
+
+# npm package-lock file (optional, if you don't want to track package-lock.json)
+# package-lock.json
+
+# IDE settings (VSCode, IntelliJ, etc.)
+.vscode/
+.idea/
+
+# Other files you don't want to track
+*.bak
+*.swp
